@@ -1,0 +1,17 @@
+html {
+    background-color: rgb(120, 194, 120);
+    color: rgb(0, 70, 0);
+    font-family: 'Helvetica', sans-serif;
+    font-size: 18px;
+    text-align: center;
+}
+
+ul {
+    padding-left: 0;
+    list-style-position: outside;
+}
+
+ol {
+    padding-left: 0;
+    list-style-position: inside;
+}
