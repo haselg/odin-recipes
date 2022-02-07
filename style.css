@@ -23,3 +23,7 @@ ul.ingredients {
 ol.steps {
     list-style-position: inside;
 }
+
+.ingredients.nested {
+    display: inline;
+}
