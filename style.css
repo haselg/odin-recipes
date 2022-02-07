@@ -6,12 +6,20 @@ html {
     text-align: center;
 }
 
-ul {
+img.recipe {
+    height: auto;
+    width: 500px;
+}
+
+ul,
+ol {
     padding-left: 0;
+}
+
+ul.ingredients {
     list-style-position: outside;
 }
 
-ol {
-    padding-left: 0;
+ol.steps {
     list-style-position: inside;
 }
